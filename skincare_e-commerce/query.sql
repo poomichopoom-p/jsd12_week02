@@ -1,0 +1,1 @@
+ALTER TABLE Suppliers ADD COLUMN phone_number VARCHAR(20);
